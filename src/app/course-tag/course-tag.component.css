@@ -1,0 +1,11 @@
+.course-tag{
+    border: 1px solid chartreuse;
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: darksalmon;
+    color: brown;
+    display: inline-block;
+    text-align: center;
+    line-height: 150px;
+}
